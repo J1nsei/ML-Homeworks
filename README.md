@@ -1,1 +1,1 @@
-# ML-Intensive
+Homeworks repository.
